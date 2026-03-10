@@ -1,11 +1,11 @@
-# Sentilytics 🧠📊
+# Sentilytics
 Sentiment Analysis with BERT Embeddings + Classical Machine Learning
 
 Sentilytics is a robust sentiment analysis system that combines the power of BERT-based text representations with classical machine learning models to perform accurate three-way sentiment classification on real-world tweet and review data (`positive`, `neutral`, `negative`).
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project demonstrates a practical approach to sentiment analysis by leveraging **BERT as a feature extractor** and then training multiple classical ML models on top of those rich 768-dimensional embeddings. It also includes strong TF-IDF baselines for comparison, enabling you to see exactly how much performance gains come from using modern transformers versus traditional methods.
 
@@ -19,7 +19,7 @@ The complete pipeline includes:
 
 ---
 
-## 📂 Dataset Requirements
+## Dataset Requirements
 
 The project expects two CSV files in your working directory:
 
@@ -68,7 +68,7 @@ These visualizations help identify patterns and give you confidence in the data 
 
 ---
 
-## 🧠 Dual Modeling Approach
+##  Dual Modeling Approach
 
 ### Baseline: TF-IDF + Classical ML
 
@@ -111,7 +111,7 @@ The core strength of Sentilytics is combining frozen BERT embeddings with tradit
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 Sentilytics provides comprehensive evaluation:
 
@@ -126,7 +126,7 @@ All metrics are calculated for both individual sentiment classes and weighted av
 
 ---
 
-## 🎯 Model Performance Highlights
+##  Model Performance Highlights
 
 Key results:
 
@@ -138,7 +138,7 @@ Key results:
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 Sentilytics excels at:
 
@@ -165,7 +165,7 @@ Sentilytics excels at:
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Installation
 
@@ -193,7 +193,7 @@ pip install pandas numpy nltk scikit-learn torch transformers matplotlib seaborn
 
 ---
 
-## 📋 Example Output
+##  Example Output
 
 The notebook generates:
 - EDA visualizations showing sentiment distribution
@@ -205,7 +205,7 @@ The notebook generates:
 
 ---
 
-## 🏆 Key Advantages
+##  Key Advantages
 
 ✨ **State-of-the-art representations** using BERT  
 ✨ **Fast inference** with classical ML models  
@@ -217,7 +217,7 @@ The notebook generates:
 
 ---
 
-## 📚 Learning Resources
+##  Learning Resources
 
 This project is excellent for understanding:
 - How transformers work as feature extractors
@@ -228,7 +228,7 @@ This project is excellent for understanding:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to:
 - Add new datasets
@@ -239,13 +239,13 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📝 License
+##  License
 
 This project is open source and available under the MIT License.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Jayesh Kaushik**
 - GitHub: [@jayeshkaushik1](https://github.com/jayeshkaushik1)
