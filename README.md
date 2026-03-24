@@ -40,7 +40,7 @@ Each record contains:
 
 ---
 
-## 🧹 Text Preprocessing Pipeline
+##  Text Preprocessing Pipeline
 
 Sentilytics implements intelligent text preprocessing that maintains semantic meaning while cleaning noise:
 
@@ -54,7 +54,7 @@ The preprocessing function is applied uniformly to both training and test data, 
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 The notebook includes comprehensive visualizations:
 
@@ -89,7 +89,7 @@ These models provide clear performance benchmarks.
 
 ---
 
-### Main Approach: BERT Embeddings + Classical ML ⭐
+### Main Approach: BERT Embeddings + Classical ML 
 
 The core strength of Sentilytics is combining frozen BERT embeddings with traditional ML models.
 
@@ -151,7 +151,7 @@ Sentilytics excels at:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Core Libraries:**
 - `Python 3.8+`
@@ -205,17 +205,6 @@ The notebook generates:
 
 ---
 
-##  Key Advantages
-
-✨ **State-of-the-art representations** using BERT  
-✨ **Fast inference** with classical ML models  
-✨ **Comprehensive analysis** with multiple visualization types  
-✨ **Easy to extend** – add new models or datasets easily  
-✨ **Production-ready** – clean, well-documented code  
-✨ **Reproducible** – fixed random seeds throughout  
-✨ **Interpretable** – confusion matrices and metrics for every model  
-
----
 
 ##  Learning Resources
 
